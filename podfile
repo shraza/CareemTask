@@ -1,0 +1,6 @@
+
+use_frameworks!
+
+target ‘task' do
+	pod 'MapleBacon'
+end
